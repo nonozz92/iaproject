@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+tensorflow-intel==2.16.2
+streamlit
+requests
+openai
+joblib
+numpy==1.26.0
